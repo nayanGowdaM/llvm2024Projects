@@ -1,0 +1,8 @@
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/intrinsics_gen.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/omp_gen.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/acc_gen.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/clang-tablegen-targets.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/NewCyclomaticComplexityPlugin.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/edit_cache.dir
+/Users/sprajwalln/Desktop/NewCyclomaticComplexityPlugin/build/CMakeFiles/rebuild_cache.dir
